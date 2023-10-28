@@ -1,0 +1,2459 @@
+[
+  {
+    "id_car_make": "1",
+    "name": "AC",
+    "date_create": "1398977406",
+    "date_update": "1586381959",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "2",
+    "name": "Acura",
+    "date_create": "1398977406",
+    "date_update": "1586381960",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3",
+    "name": "Alfa Romeo",
+    "date_create": "1398977406",
+    "date_update": "1586381962",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4",
+    "name": "Alpine",
+    "date_create": "1398977406",
+    "date_update": "1586381963",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "5",
+    "name": "AM General",
+    "date_create": "1398977406",
+    "date_update": "1461509644",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "6",
+    "name": "Ariel",
+    "date_create": "1398977406",
+    "date_update": "1586381965",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "7",
+    "name": "Aro",
+    "date_create": "1398977406",
+    "date_update": "1586381965",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "8",
+    "name": "Asia",
+    "date_create": "1398977406",
+    "date_update": "1586381966",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "9",
+    "name": "Aston Martin",
+    "date_create": "1398977406",
+    "date_update": "1586381966",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "10",
+    "name": "Audi",
+    "date_create": "1398977406",
+    "date_update": "1586381967",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "11",
+    "name": "Austin",
+    "date_create": "1398977406",
+    "date_update": "1586381968",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "12",
+    "name": "Autobianchi",
+    "date_create": "1398977406",
+    "date_update": "1443121391",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "13",
+    "name": "Baltijas Dzips",
+    "date_create": "1398977406",
+    "date_update": "1461509644",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "14",
+    "name": "Beijing",
+    "date_create": "1398977406",
+    "date_update": "1586381971",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "15",
+    "name": "Bentley",
+    "date_create": "1398977406",
+    "date_update": "1586381972",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "16",
+    "name": "Bertone",
+    "date_create": "1398977406",
+    "date_update": "1443121391",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "17",
+    "name": "Bitter",
+    "date_create": "1398977406",
+    "date_update": "1443121391",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "18",
+    "name": "BMW",
+    "date_create": "1398977406",
+    "date_update": "1586381978",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "20",
+    "name": "Brabus",
+    "date_create": "1398977406",
+    "date_update": "1443121391",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "21",
+    "name": "Brilliance",
+    "date_create": "1398977406",
+    "date_update": "1586381981",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "22",
+    "name": "Bristol",
+    "date_create": "1398977406",
+    "date_update": "1586381982",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "23",
+    "name": "Bufori",
+    "date_create": "1398977406",
+    "date_update": "1443121391",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "24",
+    "name": "Bugatti",
+    "date_create": "1398977406",
+    "date_update": "1586381983",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "25",
+    "name": "Buick",
+    "date_create": "1398977406",
+    "date_update": "1586381984",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "26",
+    "name": "BYD",
+    "date_create": "1398977406",
+    "date_update": "1586381985",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "27",
+    "name": "Byvin",
+    "date_create": "1398977406",
+    "date_update": "1443121391",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "28",
+    "name": "Cadillac",
+    "date_create": "1398977406",
+    "date_update": "1586381986",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "29",
+    "name": "Callaway",
+    "date_create": "1398977406",
+    "date_update": "1586381988",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "30",
+    "name": "Carbodies",
+    "date_create": "1398977406",
+    "date_update": "1586381989",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "31",
+    "name": "Caterham",
+    "date_create": "1398977406",
+    "date_update": "1586381990",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "32",
+    "name": "Changan",
+    "date_create": "1398977406",
+    "date_update": "1586381991",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "33",
+    "name": "ChangFeng",
+    "date_create": "1398977406",
+    "date_update": "1586381992",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "34",
+    "name": "Chery",
+    "date_create": "1398977406",
+    "date_update": "1586381994",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "35",
+    "name": "Chevrolet",
+    "date_create": "1398977406",
+    "date_update": "1586381996",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "36",
+    "name": "Chrysler",
+    "date_create": "1398977406",
+    "date_update": "1586381997",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "37",
+    "name": "Citroen",
+    "date_create": "1398977406",
+    "date_update": "1586381998",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "38",
+    "name": "Cizeta",
+    "date_create": "1398977406",
+    "date_update": "1586381999",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "39",
+    "name": "Coggiola",
+    "date_create": "1398977406",
+    "date_update": "1586382000",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "40",
+    "name": "Dacia",
+    "date_create": "1398977406",
+    "date_update": "1586382002",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "41",
+    "name": "Dadi",
+    "date_create": "1398977406",
+    "date_update": "1586382004",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "42",
+    "name": "Daewoo",
+    "date_create": "1398977406",
+    "date_update": "1586382005",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "44",
+    "name": "Daihatsu",
+    "date_create": "1398977406",
+    "date_update": "1586382006",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "45",
+    "name": "Daimler",
+    "date_create": "1398977406",
+    "date_update": "1586382007",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "46",
+    "name": "Dallas",
+    "date_create": "1398977406",
+    "date_update": "1653249127",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "47",
+    "name": "Datsun",
+    "date_create": "1398977406",
+    "date_update": "1586382009",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "48",
+    "name": "De Tomaso",
+    "date_create": "1398977406",
+    "date_update": "1586382011",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "49",
+    "name": "DeLorean",
+    "date_create": "1398977406",
+    "date_update": "1586382010",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "50",
+    "name": "Derways",
+    "date_create": "1398977406",
+    "date_update": "1586382016",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "51",
+    "name": "Dodge",
+    "date_create": "1398977406",
+    "date_update": "1586382013",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "52",
+    "name": "DongFeng",
+    "date_create": "1398977406",
+    "date_update": "1586382014",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "53",
+    "name": "Doninvest",
+    "date_create": "1398977406",
+    "date_update": "1586382179",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "54",
+    "name": "Donkervoort",
+    "date_create": "1398977406",
+    "date_update": "1443121392",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "55",
+    "name": "E-Car",
+    "date_create": "1398977406",
+    "date_update": "1461509644",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "56",
+    "name": "Eagle",
+    "date_create": "1398977406",
+    "date_update": "1586382017",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "57",
+    "name": "Eagle Cars",
+    "date_create": "1398977406",
+    "date_update": "1461509644",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "59",
+    "name": "FAW",
+    "date_create": "1398977406",
+    "date_update": "1586382020",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "60",
+    "name": "Ferrari",
+    "date_create": "1398977406",
+    "date_update": "1586382021",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "61",
+    "name": "Fiat",
+    "date_create": "1398977406",
+    "date_update": "1586382022",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "62",
+    "name": "Fisker",
+    "date_create": "1398977406",
+    "date_update": "1586382024",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "63",
+    "name": "Ford",
+    "date_create": "1398977406",
+    "date_update": "1586382025",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "64",
+    "name": "Foton",
+    "date_create": "1398977406",
+    "date_update": "1586382026",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "65",
+    "name": "FSO",
+    "date_create": "1398977406",
+    "date_update": "1586382027",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "66",
+    "name": "Fuqi",
+    "date_create": "1398977406",
+    "date_update": "1586382028",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "67",
+    "name": "Geely",
+    "date_create": "1398977406",
+    "date_update": "1586382029",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "68",
+    "name": "Geo",
+    "date_create": "1398977406",
+    "date_update": "1586382031",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "69",
+    "name": "GMC",
+    "date_create": "1398977406",
+    "date_update": "1639985046",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "70",
+    "name": "Gonow",
+    "date_create": "1398977406",
+    "date_update": "1443121392",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "71",
+    "name": "Great Wall",
+    "date_create": "1398977406",
+    "date_update": "1586382035",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "72",
+    "name": "Hafei",
+    "date_create": "1398977406",
+    "date_update": "1586382037",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "73",
+    "name": "Haima",
+    "date_create": "1398977406",
+    "date_update": "1586382038",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "74",
+    "name": "Hindustan",
+    "date_create": "1398977406",
+    "date_update": "1586382042",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "75",
+    "name": "Holden",
+    "date_create": "1398977406",
+    "date_update": "1586382042",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "76",
+    "name": "Honda",
+    "date_create": "1398977406",
+    "date_update": "1586382044",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "77",
+    "name": "HuangHai",
+    "date_create": "1398977406",
+    "date_update": "1586382045",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "78",
+    "name": "Hummer",
+    "date_create": "1398977406",
+    "date_update": "1586382046",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "79",
+    "name": "Hyundai",
+    "date_create": "1398977406",
+    "date_update": "1586382048",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "80",
+    "name": "Infiniti",
+    "date_create": "1398977406",
+    "date_update": "1586382049",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "81",
+    "name": "Innocenti",
+    "date_create": "1398977406",
+    "date_update": "1586382051",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "82",
+    "name": "Invicta",
+    "date_create": "1398977406",
+    "date_update": "1586382052",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "83",
+    "name": "Iran Khodro",
+    "date_create": "1398977406",
+    "date_update": "1586382053",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "84",
+    "name": "Isdera",
+    "date_create": "1398977406",
+    "date_update": "1586382054",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "85",
+    "name": "Isuzu",
+    "date_create": "1398977406",
+    "date_update": "1586382056",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "86",
+    "name": "IVECO",
+    "date_create": "1398977406",
+    "date_update": "1484952836",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "87",
+    "name": "JAC",
+    "date_create": "1398977406",
+    "date_update": "1586382056",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "88",
+    "name": "Jaguar",
+    "date_create": "1398977406",
+    "date_update": "1586382057",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "89",
+    "name": "Jeep",
+    "date_create": "1398977406",
+    "date_update": "1586382058",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "90",
+    "name": "Jensen",
+    "date_create": "1398977406",
+    "date_update": "1443121392",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "91",
+    "name": "JMC",
+    "date_create": "1398977406",
+    "date_update": "1586382062",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "92",
+    "name": "Kia",
+    "date_create": "1398977406",
+    "date_update": "1586382063",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "93",
+    "name": "Koenigsegg",
+    "date_create": "1398977406",
+    "date_update": "1586382064",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "95",
+    "name": "Lamborghini",
+    "date_create": "1398977406",
+    "date_update": "1586382066",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "96",
+    "name": "Lancia",
+    "date_create": "1398977406",
+    "date_update": "1586382067",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "97",
+    "name": "Land Rover",
+    "date_create": "1398977406",
+    "date_update": "1586382068",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "98",
+    "name": "Landwind",
+    "date_create": "1398977406",
+    "date_update": "1586382069",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "99",
+    "name": "Lexus",
+    "date_create": "1398977406",
+    "date_update": "1586382070",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "100",
+    "name": "Liebao Motor",
+    "date_create": "1398977406",
+    "date_update": "1461509644",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "101",
+    "name": "Lifan",
+    "date_create": "1398977406",
+    "date_update": "1586382071",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "102",
+    "name": "Lincoln",
+    "date_create": "1398977406",
+    "date_update": "1586382072",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "103",
+    "name": "Lotus",
+    "date_create": "1398977406",
+    "date_update": "1586382073",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "104",
+    "name": "LTI",
+    "date_create": "1398977406",
+    "date_update": "1586382074",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "105",
+    "name": "Luxgen",
+    "date_create": "1398977406",
+    "date_update": "1586382075",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "106",
+    "name": "Mahindra",
+    "date_create": "1398977406",
+    "date_update": "1586382075",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "107",
+    "name": "Marcos",
+    "date_create": "1398977406",
+    "date_update": "1586382076",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "108",
+    "name": "Marlin",
+    "date_create": "1398977406",
+    "date_update": "1586382076",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "109",
+    "name": "Marussia",
+    "date_create": "1398977406",
+    "date_update": "1586382095",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "110",
+    "name": "Maruti",
+    "date_create": "1398977406",
+    "date_update": "1586382076",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "111",
+    "name": "Maserati",
+    "date_create": "1398977406",
+    "date_update": "1586382077",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "112",
+    "name": "Maybach",
+    "date_create": "1398977406",
+    "date_update": "1586382078",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "113",
+    "name": "Mazda",
+    "date_create": "1398977406",
+    "date_update": "1586382079",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "114",
+    "name": "McLaren",
+    "date_create": "1398977406",
+    "date_update": "1586382080",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "115",
+    "name": "Mega",
+    "date_create": "1398977406",
+    "date_update": "1586382082",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "116",
+    "name": "Mercedes-Benz",
+    "date_create": "1398977406",
+    "date_update": "1586382084",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "117",
+    "name": "Mercury",
+    "date_create": "1398977406",
+    "date_update": "1586382085",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "118",
+    "name": "Metrocab",
+    "date_create": "1398977406",
+    "date_update": "1586382086",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "119",
+    "name": "MG",
+    "date_create": "1398977406",
+    "date_update": "1586382087",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "120",
+    "name": "Microcar",
+    "date_create": "1398977406",
+    "date_update": "1443121393",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "121",
+    "name": "Minelli",
+    "date_create": "1398977406",
+    "date_update": "1586382088",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "122",
+    "name": "Mini",
+    "date_create": "1398977406",
+    "date_update": "1586382089",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "123",
+    "name": "Mitsubishi",
+    "date_create": "1398977406",
+    "date_update": "1586382090",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "124",
+    "name": "Mitsuoka",
+    "date_create": "1398977406",
+    "date_update": "1586382091",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "125",
+    "name": "Morgan",
+    "date_create": "1398977406",
+    "date_update": "1586382094",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "126",
+    "name": "Morris",
+    "date_create": "1398977406",
+    "date_update": "1443121393",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "127",
+    "name": "Nissan",
+    "date_create": "1398977406",
+    "date_update": "1586382096",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "128",
+    "name": "Noble",
+    "date_create": "1398977406",
+    "date_update": "1586382097",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "129",
+    "name": "Oldsmobile",
+    "date_create": "1398977406",
+    "date_update": "1586382099",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "130",
+    "name": "Opel",
+    "date_create": "1398977406",
+    "date_update": "1586382100",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "131",
+    "name": "Osca",
+    "date_create": "1398977406",
+    "date_update": "1586382101",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "132",
+    "name": "Pagani",
+    "date_create": "1398977406",
+    "date_update": "1586382103",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "133",
+    "name": "Panoz",
+    "date_create": "1398977406",
+    "date_update": "1586382104",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "134",
+    "name": "Perodua",
+    "date_create": "1398977406",
+    "date_update": "1586382106",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "135",
+    "name": "Peugeot",
+    "date_create": "1398977406",
+    "date_update": "1632489542",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "136",
+    "name": "Piaggio",
+    "date_create": "1398977406",
+    "date_update": "1548271812",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "137",
+    "name": "Plymouth",
+    "date_create": "1398977406",
+    "date_update": "1586382108",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "138",
+    "name": "Pontiac",
+    "date_create": "1398977406",
+    "date_update": "1586382109",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "139",
+    "name": "Porsche",
+    "date_create": "1398977406",
+    "date_update": "1586382110",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "140",
+    "name": "Premier",
+    "date_create": "1398977406",
+    "date_update": "1586382111",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "141",
+    "name": "Proton",
+    "date_create": "1398977406",
+    "date_update": "1586382112",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "142",
+    "name": "PUCH",
+    "date_create": "1398977406",
+    "date_update": "1443121393",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "143",
+    "name": "Puma",
+    "date_create": "1398977406",
+    "date_update": "1653250441",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "144",
+    "name": "Qoros",
+    "date_create": "1398977406",
+    "date_update": "1586382115",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "145",
+    "name": "Qvale",
+    "date_create": "1398977406",
+    "date_update": "1586382115",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "146",
+    "name": "Reliant",
+    "date_create": "1398977406",
+    "date_update": "1586382118",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "147",
+    "name": "Renault",
+    "date_create": "1398977406",
+    "date_update": "1586382121",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "148",
+    "name": "Samsung",
+    "date_create": "1398977406",
+    "date_update": "1586382127",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "149",
+    "name": "Rolls-Royce",
+    "date_create": "1398977406",
+    "date_update": "1586382123",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "150",
+    "name": "Ronart",
+    "date_create": "1398977406",
+    "date_update": "1586382124",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "151",
+    "name": "Rover",
+    "date_create": "1398977406",
+    "date_update": "1586382125",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "152",
+    "name": "Saab",
+    "date_create": "1398977406",
+    "date_update": "1586382126",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "153",
+    "name": "Saleen",
+    "date_create": "1398977406",
+    "date_update": "1586382127",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "154",
+    "name": "Santana",
+    "date_create": "1398977406",
+    "date_update": "1586382128",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "155",
+    "name": "Saturn",
+    "date_create": "1398977406",
+    "date_update": "1586382129",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "156",
+    "name": "Scion",
+    "date_create": "1398977406",
+    "date_update": "1586382130",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "157",
+    "name": "SEAT",
+    "date_create": "1398977406",
+    "date_update": "1586382131",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "158",
+    "name": "ShuangHuan",
+    "date_create": "1398977406",
+    "date_update": "1586382133",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "159",
+    "name": "Skoda",
+    "date_create": "1398977406",
+    "date_update": "1586382134",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "160",
+    "name": "Smart",
+    "date_create": "1398977406",
+    "date_update": "1586382136",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "161",
+    "name": "Soueast",
+    "date_create": "1398977406",
+    "date_update": "1586382137",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "162",
+    "name": "Spectre",
+    "date_create": "1398977406",
+    "date_update": "1586382139",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "163",
+    "name": "Spyker",
+    "date_create": "1398977406",
+    "date_update": "1586382140",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "165",
+    "name": "SsangYong",
+    "date_create": "1398977406",
+    "date_update": "1586382140",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "166",
+    "name": "Subaru",
+    "date_create": "1398977406",
+    "date_update": "1586382141",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "167",
+    "name": "Suzuki",
+    "date_create": "1398977406",
+    "date_update": "1586382142",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "168",
+    "name": "Talbot",
+    "date_create": "1398977406",
+    "date_update": "1586382143",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "169",
+    "name": "Tata",
+    "date_create": "1398977406",
+    "date_update": "1586382144",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "170",
+    "name": "Tatra",
+    "date_create": "1398977406",
+    "date_update": "1586382145",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "171",
+    "name": "Tazzari",
+    "date_create": "1398977406",
+    "date_update": "1443121394",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "172",
+    "name": "Tesla",
+    "date_create": "1398977406",
+    "date_update": "1586382147",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "173",
+    "name": "Tianma",
+    "date_create": "1398977406",
+    "date_update": "1586382148",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "174",
+    "name": "Tianye",
+    "date_create": "1398977406",
+    "date_update": "1586382149",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "175",
+    "name": "Tofas",
+    "date_create": "1398977406",
+    "date_update": "1586382150",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "176",
+    "name": "Toyota",
+    "date_create": "1398977406",
+    "date_update": "1586382153",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "177",
+    "name": "Trabant",
+    "date_create": "1398977406",
+    "date_update": "1586382154",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "178",
+    "name": "Tramontana",
+    "date_create": "1398977406",
+    "date_update": "1443121394",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "179",
+    "name": "Triumph",
+    "date_create": "1398977406",
+    "date_update": "1443121394",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "180",
+    "name": "TVR",
+    "date_create": "1398977406",
+    "date_update": "1586382157",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "181",
+    "name": "Vauxhall",
+    "date_create": "1398977406",
+    "date_update": "1586382158",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "182",
+    "name": "Vector",
+    "date_create": "1398977406",
+    "date_update": "1586382159",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "183",
+    "name": "Venturi",
+    "date_create": "1398977406",
+    "date_update": "1586382161",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "184",
+    "name": "Volkswagen",
+    "date_create": "1398977406",
+    "date_update": "1586382161",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "185",
+    "name": "Volvo",
+    "date_create": "1398977406",
+    "date_update": "1586382162",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "186",
+    "name": "Vortex",
+    "date_create": "1398977407",
+    "date_update": "1586382163",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "187",
+    "name": "Wartburg",
+    "date_create": "1398977407",
+    "date_update": "1586382164",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "188",
+    "name": "Westfield",
+    "date_create": "1398977407",
+    "date_update": "1586382166",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "189",
+    "name": "Wiesmann",
+    "date_create": "1398977407",
+    "date_update": "1586382167",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "190",
+    "name": "Xin Kai",
+    "date_create": "1398977407",
+    "date_update": "1586382170",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "191",
+    "name": "Zastava",
+    "date_create": "1398977407",
+    "date_update": "1586382171",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "192",
+    "name": "Zotye",
+    "date_create": "1398977407",
+    "date_update": "1586382174",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "193",
+    "name": "ZX",
+    "date_create": "1398977407",
+    "date_update": "1586382174",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "211",
+    "name": "Yo-mobil",
+    "date_create": "1398978086",
+    "date_update": "1461509644",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "212",
+    "name": "Autocam",
+    "date_create": "1398978087",
+    "date_update": "1443121394",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "215",
+    "name": "VAZ (Lada)",
+    "date_create": "1398978087",
+    "date_update": "1586382177",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "216",
+    "name": "GAZ",
+    "date_create": "1398978087",
+    "date_update": "1586382178",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "217",
+    "name": "ZAZ",
+    "date_create": "1398978087",
+    "date_update": "1586382180",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "218",
+    "name": "ZIL",
+    "date_create": "1398978087",
+    "date_update": "1586382180",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "219",
+    "name": "IZH",
+    "date_create": "1398978087",
+    "date_update": "1586382181",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "221",
+    "name": "Kanonir",
+    "date_create": "1398978087",
+    "date_update": "1443121394",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "222",
+    "name": "LuAZ",
+    "date_create": "1398978087",
+    "date_update": "1586382183",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "223",
+    "name": "Moskvich",
+    "date_create": "1398978087",
+    "date_update": "1586382183",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "224",
+    "name": "SMZ",
+    "date_create": "1398978087",
+    "date_update": "1586382184",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "226",
+    "name": "TagAZ",
+    "date_create": "1398978087",
+    "date_update": "1586382185",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "227",
+    "name": "UAZ",
+    "date_create": "1398978087",
+    "date_update": "1586382185",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "280",
+    "name": "Ultima",
+    "date_create": "1409164952",
+    "date_update": "1443121394",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "282",
+    "name": "Hawtai",
+    "date_create": "1411934673",
+    "date_update": "1586382041",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "284",
+    "name": "Renaissance Cars",
+    "date_create": "1411934673",
+    "date_update": "1653250560",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "286",
+    "name": "Paykan",
+    "date_create": "1414343063",
+    "date_update": "1653250320",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "289",
+    "name": "Gordon",
+    "date_create": "1416945499",
+    "date_update": "1443121392",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "290",
+    "name": "Haval",
+    "date_create": "1416945499",
+    "date_update": "1586382039",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "291",
+    "name": "Alpina",
+    "date_create": "1419455832",
+    "date_update": "1586381962",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3589",
+    "name": "DS",
+    "date_create": "1429392621",
+    "date_update": "1586382015",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3590",
+    "name": "PGO",
+    "date_create": "1429392622",
+    "date_update": "1443121393",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3591",
+    "name": "Zenvo",
+    "date_create": "1429392622",
+    "date_update": "1443121394",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3619",
+    "name": "Rezvani",
+    "date_create": "1433454170",
+    "date_update": "1443121393",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3620",
+    "name": "Rimac",
+    "date_create": "1434654885",
+    "date_update": "1586382122",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3664",
+    "name": "Adler",
+    "date_create": "1439903763",
+    "date_update": "1586381961",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3665",
+    "name": "DeSoto",
+    "date_create": "1439903763",
+    "date_update": "1443121392",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3666",
+    "name": "Packard",
+    "date_create": "1439903764",
+    "date_update": "1586382102",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3667",
+    "name": "Willys",
+    "date_create": "1439903764",
+    "date_update": "1586382168",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3668",
+    "name": "Combat",
+    "date_create": "1439903764",
+    "date_update": "1586382182",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3676",
+    "name": "Borgward",
+    "date_create": "1443119218",
+    "date_update": "1586381979",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3689",
+    "name": "Ravon",
+    "date_create": "1445023148",
+    "date_update": "1586382117",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3690",
+    "name": "ZiS",
+    "date_create": "1445023148",
+    "date_update": "1474147960",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3705",
+    "name": "AMC",
+    "date_create": "1447237267",
+    "date_update": "1586381964",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3706",
+    "name": "Zenos",
+    "date_create": "1447237269",
+    "date_update": "1474147901",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3728",
+    "name": "W Motors",
+    "date_create": "1448491805",
+    "date_update": "1474147823",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3739",
+    "name": "Hudson",
+    "date_create": "1452947646",
+    "date_update": "1474147005",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3749",
+    "name": "Austin Healey",
+    "date_create": "1462748795",
+    "date_update": "1586381969",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3752",
+    "name": "Chana",
+    "date_create": "1462748795",
+    "date_update": "1548272504",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3753",
+    "name": "Changhe",
+    "date_create": "1462748795",
+    "date_update": "1586381993",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3754",
+    "name": "DFSK",
+    "date_create": "1462748796",
+    "date_update": "1548272576",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3755",
+    "name": "Efini",
+    "date_create": "1462748796",
+    "date_update": "1653249242",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3756",
+    "name": "Excalibur",
+    "date_create": "1462748796",
+    "date_update": "1586382019",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3757",
+    "name": "Groz",
+    "date_create": "1462748796",
+    "date_update": "1653249427",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3760",
+    "name": "Hurtan",
+    "date_create": "1462748796",
+    "date_update": "1653249558",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3761",
+    "name": "Jiangnan",
+    "date_create": "1462748796",
+    "date_update": "1653249721",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3762",
+    "name": "Jinbei",
+    "date_create": "1462748796",
+    "date_update": "1586382061",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3764",
+    "name": "Maxus",
+    "date_create": "1462748796",
+    "date_update": "1484952836",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3765",
+    "name": "Monte Carlo",
+    "date_create": "1462748796",
+    "date_update": "1653250141",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3767",
+    "name": "Nysa",
+    "date_create": "1462748796",
+    "date_update": "1653250217",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3771",
+    "name": "Shifeng",
+    "date_create": "1462748796",
+    "date_update": "1653250746",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3772",
+    "name": "SMA",
+    "date_create": "1462748796",
+    "date_update": "1586382135",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3774",
+    "name": "Wuling",
+    "date_create": "1462748796",
+    "date_update": "1653251160",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3815",
+    "name": "Genesis",
+    "date_create": "1479513184",
+    "date_update": "1586382030",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3816",
+    "name": "International",
+    "date_create": "1479513184",
+    "date_update": "1487188714",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3821",
+    "name": "Zibar",
+    "date_create": "1482060243",
+    "date_update": "1586382172",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "3822",
+    "name": "Other car",
+    "date_create": "1484952837",
+    "date_update": "1586382176",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4142",
+    "name": "RAM",
+    "date_create": "1500581103",
+    "date_update": "1586382117",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4144",
+    "name": "Aurus",
+    "date_create": "1537438149",
+    "date_update": "1586381970",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4145",
+    "name": "Trumpchi",
+    "date_create": "1537438231",
+    "date_update": "1653251009",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4146",
+    "name": "Abarth",
+    "date_create": "1537830763",
+    "date_update": "1537830763",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4147",
+    "name": "Baic",
+    "date_create": "1545763539",
+    "date_update": "1545763539",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4148",
+    "name": "DFM",
+    "date_create": "1545829522",
+    "date_update": "1548100397",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4149",
+    "name": "Saipa",
+    "date_create": "1545830266",
+    "date_update": "1548100397",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4154",
+    "name": "Apal",
+    "date_create": "1571006988",
+    "date_update": "1571006988",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4155",
+    "name": "Bajaj",
+    "date_create": "1571006988",
+    "date_update": "1571006988",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4156",
+    "name": "Batmobile",
+    "date_create": "1571006988",
+    "date_update": "1571006988",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4157",
+    "name": "Bilenkin",
+    "date_create": "1571006988",
+    "date_update": "1571006988",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4158",
+    "name": "Cord",
+    "date_create": "1571006988",
+    "date_update": "1571006988",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4159",
+    "name": "Delage",
+    "date_create": "1571006988",
+    "date_update": "1571006988",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4160",
+    "name": "DKW",
+    "date_create": "1571006989",
+    "date_update": "1571006989",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4162",
+    "name": "DW Hower",
+    "date_create": "1571006989",
+    "date_update": "1571006989",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4163",
+    "name": "Flanker",
+    "date_create": "1571006989",
+    "date_update": "1571006989",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4164",
+    "name": "GAC",
+    "date_create": "1571006989",
+    "date_update": "1571006989",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4165",
+    "name": "GP",
+    "date_create": "1571006989",
+    "date_update": "1571006989",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4166",
+    "name": "Hanomag",
+    "date_create": "1571006989",
+    "date_update": "1571006989",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4167",
+    "name": "Hispano-Suiza",
+    "date_create": "1571006989",
+    "date_update": "1571006989",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4168",
+    "name": "Horch",
+    "date_create": "1571006989",
+    "date_update": "1571006989",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4169",
+    "name": "KTM AG",
+    "date_create": "1571006990",
+    "date_update": "1571006990",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4170",
+    "name": "Ligier",
+    "date_create": "1571006990",
+    "date_update": "1571006990",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4171",
+    "name": "Lucid",
+    "date_create": "1571006990",
+    "date_update": "1571006990",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4172",
+    "name": "Nash",
+    "date_create": "1571006990",
+    "date_update": "1571006990",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4173",
+    "name": "Rambler",
+    "date_create": "1571006991",
+    "date_update": "1571006991",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4174",
+    "name": "Renaissance",
+    "date_create": "1571006991",
+    "date_update": "1571006991",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4175",
+    "name": "Renault Samsung",
+    "date_create": "1571006991",
+    "date_update": "1571006991",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4176",
+    "name": "Rinspeed",
+    "date_create": "1571006991",
+    "date_update": "1571006991",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4177",
+    "name": "Shanghai Maple",
+    "date_create": "1571006992",
+    "date_update": "1571006992",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4178",
+    "name": "Simca",
+    "date_create": "1571006992",
+    "date_update": "1571006992",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4179",
+    "name": "Steyr",
+    "date_create": "1571006992",
+    "date_update": "1571006992",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4180",
+    "name": "Studebaker",
+    "date_create": "1571006992",
+    "date_update": "1571006992",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4181",
+    "name": "Think",
+    "date_create": "1571006992",
+    "date_update": "1571006992",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4182",
+    "name": "Wanderer",
+    "date_create": "1571006993",
+    "date_update": "1571006993",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4183",
+    "name": "Racing car",
+    "date_create": "1571006993",
+    "date_update": "1571006993",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4184",
+    "name": "Logem",
+    "date_create": "1571781426",
+    "date_update": "1571781426",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4186",
+    "name": "Dallara",
+    "date_create": "1574814110",
+    "date_update": "1574814110",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4187",
+    "name": "Heinkel",
+    "date_create": "1583962807",
+    "date_update": "1583962807",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4188",
+    "name": "Yulon",
+    "date_create": "1585953367",
+    "date_update": "1585953367",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4189",
+    "name": "Bio auto",
+    "date_create": "1597086306",
+    "date_update": "1597086306",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4190",
+    "name": "Deco Rides",
+    "date_create": "1597086306",
+    "date_update": "1597086306",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4191",
+    "name": "Sears",
+    "date_create": "1597086308",
+    "date_update": "1597086308",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4192",
+    "name": "Xpeng",
+    "date_create": "1597086309",
+    "date_update": "1597086309",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4195",
+    "name": "Roewe",
+    "date_create": "1598988128",
+    "date_update": "1598988128",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4196",
+    "name": "CheryExeed",
+    "date_create": "1603006206",
+    "date_update": "1603006206",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4197",
+    "name": "LiXiang",
+    "date_create": "1603006207",
+    "date_update": "1603006207",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4198",
+    "name": "Nio",
+    "date_create": "1603006207",
+    "date_update": "1603006207",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4199",
+    "name": "Hennessey",
+    "date_create": "1611165829",
+    "date_update": "1611165829",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4200",
+    "name": "Polestar",
+    "date_create": "1611165830",
+    "date_update": "1611165830",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4201",
+    "name": "Auburn",
+    "date_create": "1614153366",
+    "date_update": "1614153366",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4202",
+    "name": "Weltmeister",
+    "date_create": "1614153369",
+    "date_update": "1614153369",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4203",
+    "name": "Cupra",
+    "date_create": "1617748142",
+    "date_update": "1617748142",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4204",
+    "name": "Goggomobil",
+    "date_create": "1636751826",
+    "date_update": "1636751826",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4205",
+    "name": "HSV",
+    "date_create": "1636751826",
+    "date_update": "1636751826",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4206",
+    "name": "Matra",
+    "date_create": "1636751826",
+    "date_update": "1636751826",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4207",
+    "name": "Messerschmitt",
+    "date_create": "1636751827",
+    "date_update": "1636751827",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4208",
+    "name": "Pierce-Arrow",
+    "date_create": "1636751827",
+    "date_update": "1636751827",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4209",
+    "name": "VUHL",
+    "date_create": "1636751828",
+    "date_update": "1636751828",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4210",
+    "name": "Ciimo",
+    "date_create": "1647088747",
+    "date_update": "1647088747",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4211",
+    "name": "Everus",
+    "date_create": "1647088747",
+    "date_update": "1647088747",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4212",
+    "name": "Facel Vega",
+    "date_create": "1647088747",
+    "date_update": "1647088747",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4213",
+    "name": "Hongqi",
+    "date_create": "1647088747",
+    "date_update": "1647088747",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4214",
+    "name": "Hozon",
+    "date_create": "1647088747",
+    "date_update": "1647088747",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4215",
+    "name": "Aion",
+    "date_create": "1649709719",
+    "date_update": "1649709719",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4216",
+    "name": "Blaval",
+    "date_create": "1649709720",
+    "date_update": "1649709720",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4217",
+    "name": "Skywell",
+    "date_create": "1649709724",
+    "date_update": "1649709724",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4307",
+    "name": "Voyah",
+    "date_create": "1652334713",
+    "date_update": "1652334713",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4308",
+    "name": "Rivian",
+    "date_create": "1655850026",
+    "date_update": "1655850026",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4309",
+    "name": "Zeekr",
+    "date_create": "1655850027",
+    "date_update": "1655850027",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4310",
+    "name": "Leapmotor",
+    "date_create": "1657746680",
+    "date_update": "1657746680",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4311",
+    "name": "Tank",
+    "date_create": "1660682186",
+    "date_update": "1660682186",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4312",
+    "name": "Arcfox",
+    "date_create": "1661005399",
+    "date_update": "1661005399",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4313",
+    "name": "Auto Union",
+    "date_create": "1666124734",
+    "date_update": "1666124734",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4314",
+    "name": "Denza",
+    "date_create": "1666124739",
+    "date_update": "1666124739",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4315",
+    "name": "Evolute",
+    "date_create": "1666124740",
+    "date_update": "1666124740",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4316",
+    "name": "HiPhi",
+    "date_create": "1666124743",
+    "date_update": "1666124743",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4317",
+    "name": "Kaiyi",
+    "date_create": "1666124746",
+    "date_update": "1666124746",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4318",
+    "name": "Omoda",
+    "date_create": "1666124751",
+    "date_update": "1666124751",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4319",
+    "name": "DR",
+    "date_create": "1669722204",
+    "date_update": "1669722218",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4320",
+    "name": "Mobilize",
+    "date_create": "1670772507",
+    "date_update": "1670772507",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4321",
+    "name": "Oshan",
+    "date_create": "1670772507",
+    "date_update": "1670772507",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4322",
+    "name": "Aito",
+    "date_create": "1672823560",
+    "date_update": "1672823560",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4323",
+    "name": "Baojun",
+    "date_create": "1672823561",
+    "date_update": "1672823561",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4324",
+    "name": "Jetour",
+    "date_create": "1672823563",
+    "date_update": "1672823563",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4325",
+    "name": "Jetta",
+    "date_create": "1674315784",
+    "date_update": "1674315784",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4326",
+    "name": "Lynk & Co",
+    "date_create": "1674315784",
+    "date_update": "1674315784",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4327",
+    "name": "Seres",
+    "date_create": "1674315784",
+    "date_update": "1674315784",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4361",
+    "name": "ORA",
+    "date_create": "1676103497",
+    "date_update": "1676103497",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4362",
+    "name": "WEY",
+    "date_create": "1676103497",
+    "date_update": "1676103497",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4363",
+    "name": "Avatr",
+    "date_create": "1678210156",
+    "date_update": "1678210156",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4364",
+    "name": "Dongfeng Forthing",
+    "date_create": "1678210156",
+    "date_update": "1678210156",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4365",
+    "name": "Rising Auto",
+    "date_create": "1678210157",
+    "date_update": "1678210157",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4366",
+    "name": "IM Motors (Zhiji)",
+    "date_create": "1680950703",
+    "date_update": "1680950703",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4367",
+    "name": "VinFast",
+    "date_create": "1680950703",
+    "date_update": "1680950703",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4368",
+    "name": "Livan",
+    "date_create": "1683414358",
+    "date_update": "1683414358",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4369",
+    "name": "SWM",
+    "date_create": "1683414358",
+    "date_update": "1683414358",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4947",
+    "name": "EXEED",
+    "date_create": "1686633335",
+    "date_update": "1686633335",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4948",
+    "name": "Changan Kuayue (KYC)",
+    "date_create": "1686633335",
+    "date_update": "1686633335",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4949",
+    "name": "VGV",
+    "date_create": "1686633336",
+    "date_update": "1686633336",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4950",
+    "name": "Russo-Balt",
+    "date_create": "1686633336",
+    "date_update": "1686633336",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4951",
+    "name": "Aiways",
+    "date_create": "1689011916",
+    "date_update": "1689011916",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4952",
+    "name": "KYC",
+    "date_create": "1689011916",
+    "date_update": "1689011916",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4953",
+    "name": "Skyworth",
+    "date_create": "1689011917",
+    "date_update": "1689011917",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "4954",
+    "name": "Yema",
+    "date_create": "1689011917",
+    "date_update": "1689011917",
+    "id_car_type": "1"
+  },
+  {
+    "id_car_make": "5037",
+    "name": "Overland",
+    "date_create": "1691333023",
+    "date_update": "1691333023",
+    "id_car_type": "1"
+  }
+]
